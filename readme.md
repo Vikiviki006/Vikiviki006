@@ -1,7 +1,7 @@
 # <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:4F46E5,100:06B6D4&text=VIGNESH%20K&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=AI/ML%20Engineer%20|%20LLMs%20|%20RAG%20|%20Computer%20Vision&descAlignY=58&animation=fadeIn"/>
-
+<p align="center">
+  <img src="f78cef0dd20b57db43cc6c93cc4e7303.jpg" height="350" width=100%>
+</p>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=Building+Intelligent+Systems+with+AI+%F0%9F%A7%A0;LLMs+%7C+RAG+%7C+Computer+Vision+%7C+Agentic+AI;Real-Time+Anomaly+Detection+Engineer;Researcher+%7C+Published+Author;Open+to+Collaborations+and+Internships"/>
 
 <br>
